@@ -1,0 +1,10 @@
+const person = 'Adam Project';
+const person2 = "Iron Man";
+const person3 = `LightFury`;
+const a = 20;
+const b = 30;
+const num = [78, 98, 45, 12, 6, 44];
+const newSumStr = `sum of ${a} and ${num.length} is: ${a+b}`;
+console.log(newSumStr);
+// const newSummary = `sum of ${a} and ${b} is: ${a+b}`;
+// console.log(newSummary);
